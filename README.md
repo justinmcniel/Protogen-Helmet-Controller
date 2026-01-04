@@ -1,5 +1,5 @@
 This code is based off of someone else's, but with heavy modifications for maintainability and functionality.
-It centers around controlling LED matrix arrays using an arduino nano.
+It centers around controlling Max7291 LED matrix arrays using an arduino nano.
 The MaxMatrix.cpp and MaxMatrix.h files are not my own, and have only been lightly edited, but they are able to be shared.
 
 I added some additonal control interfaces, including an exterior facing microphone for the purpose of doing an audio visualizer during raves.
