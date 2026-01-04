@@ -1,5 +1,5 @@
 /* 
-Made by Cryptographic Kangaroo as an update to v3.1 of the Protogen OS made by @Feronium
+Made by Justin McNiel as an update to v3.1 of the Protogen OS made by @Feronium
 Designed to be more maintainable (better named variables, also a ton of macros for readability without affecting runtime)
 Designed to allow for more connections, with the intent of being able to send Max7291 commands to different parts individually
   ie. dimming just the eyes, setting different parts at different brightnesses to account for different colored LEDs
